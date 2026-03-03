@@ -123,7 +123,7 @@ This project is **supported by the community** through public funding. If this t
 | **Bitcoin (BTC)** | `bc1px97s59kkyde66ptvp04amntufahkn3megnys25w7d6hrdy0tqjyszz6gxh` |
 | **USDT (ERC-20)** | `0xFFC89D25A6Ff41238982Fd9846D8CE2B22B2b3Cc` |
 
-> Every contribution — big or small — helps maintain and update bypasses as apps release new versions. Thank you! 🙏
+> Every contribution — big or small — helps maintain and update bypasses as apps release new versions. Thank you! 
 
 ---
 
